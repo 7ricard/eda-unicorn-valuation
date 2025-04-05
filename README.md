@@ -27,7 +27,7 @@ A deep dive into the world of unicorn startups to explore regional growth patter
 
 ## Visual Preview
 
-![Global Unicorn Map: Post-2020 Valuation](images/valuation_map_after_2020.png)
+![Global Unicorn Map: Post-2020 Valuation](GlobalUnicornMap.png)
 
 > *Map showing total log-transformed unicorn valuations for companies that joined after 2020.*
 
@@ -35,7 +35,7 @@ A deep dive into the world of unicorn startups to explore regional growth patter
 
 ## Full Story & Business Context
 
-👉 [Read the full story on Notion](https://your-notion-link.com)
+👉 [Read the full story on Notion](https://www.notion.so/Global-Unicorn-Valuation-Capstone-Project-1cc9764c6006809f8a7fc855e61fbdf1?pvs=4)
 
 Includes:
 - Executive summary
