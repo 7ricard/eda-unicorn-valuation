@@ -35,7 +35,7 @@ A deep dive into the world of unicorn startups to explore regional growth patter
 
 ## Full Story & Business Context
 
-👉 [Read the full story on Notion](https://www.notion.so/Global-Unicorn-Valuation-Capstone-Project-1cc9764c6006809f8a7fc855e61fbdf1?pvs=4)
+👉 [Read the full story on Notion](https://www.notion.so/Global-Unicorn-Valuation-Capstone-Project-1cd9764c600681f6aaffffb477f1879f?pvs=4)
 
 Includes:
 - Executive summary
